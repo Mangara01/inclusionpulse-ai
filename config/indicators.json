@@ -1,0 +1,14 @@
+{
+  "country_code": "IDN",
+  "min_year": 2011,
+  "indicators": {
+    "internet_users_pct": "IT.NET.USER.ZS",
+    "mobile_subscriptions_per_100": "IT.CEL.SETS.P2",
+    "bank_branches_per_100k_adults": "FB.CBK.BRCH.P5",
+    "atms_per_100k_adults": "FB.ATM.TOTL.P5",
+    "private_credit_pct_gdp": "FS.AST.PRVT.GD.ZS",
+    "gdp_growth_pct": "NY.GDP.MKTP.KD.ZG",
+    "inflation_pct": "FP.CPI.TOTL.ZG",
+    "unemployment_pct": "SL.UEM.TOTL.ZS"
+  }
+}
